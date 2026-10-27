@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "方块学园 · 我的小世界",
+  "short_name": "方块学园",
+  "description": "三个孩子各自成长的本地学习小世界",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf7fc",
+  "theme_color": "#70bea9",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
